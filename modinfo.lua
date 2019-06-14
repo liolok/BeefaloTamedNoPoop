@@ -17,5 +17,5 @@ server_only_mod = true
 all_clients_require_mod = false
 
 -- Icon in mod list | 在 Mod 列表中的图标
--- icon_atlas = "modicon.xml"
--- icon = "modicon.tex"
+icon_atlas = "modicon.xml"
+icon = "modicon.tex"
