@@ -2,7 +2,7 @@ name = "Beefalo Tamed No Poop"
 description = [[Once a beefalo gets tamed, it won't drop manure any more.
 When it goes feral, it will start pooping around again.]]
 author = "liolok"
-version = "1.0.1"
+version = "1.1.0"
 api_version = 10
 
 -- Compatibility | 兼容性
