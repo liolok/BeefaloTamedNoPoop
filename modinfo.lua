@@ -1,6 +1,6 @@
 name = "Beefalo Tamed No Poop"
 author = "liolok"
-version = "1.1.0"
+version = "1.2.0"
 description = "Version: " .. version .. "\n" ..
 [[
 Once a beefalo gets tamed, it won't drop manure any more.
