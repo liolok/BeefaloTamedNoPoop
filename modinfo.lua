@@ -1,15 +1,18 @@
 name = "Beefalo Tamed No Poop"
-description = [[Once a beefalo gets tamed, it won't drop manure any more.
-When it goes feral, it will start pooping around again.]]
 author = "liolok"
 version = "1.1.0"
-api_version = 10
+description = "Version: " .. version .. "\n" ..
+[[
+Once a beefalo gets tamed, it won't drop manure any more.
+When it goes feral, it will start pooping around again.
+]]
 
 -- Compatibility | 兼容性
 dst_compatible = true -- Taming beefalo is only available in DST | 仅可在饥荒联机版驯牛
 dont_starve_compatible = false
 reign_of_giants_compatible = false
 shipwrecked_compatible = false
+api_version = 10
 
 -- Clients don't need download this mod to join game | 客户端无需下载该模组即可加入游戏
 client_only_mod = false
